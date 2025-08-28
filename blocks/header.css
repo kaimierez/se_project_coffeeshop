@@ -6,6 +6,7 @@
   height: 800px;
   display: flex;
   flex-direction: column;
+  z-index: 1;
 }
 
 .header__title {
@@ -39,6 +40,7 @@
   width: 646px;
   height: 568px;
   padding: 0;
+  z-index: -1;
 }
 
 .header__footer {

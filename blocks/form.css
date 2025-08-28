@@ -70,6 +70,6 @@
   justify-content: center;
 }
 
-::placeholder {
+.form__input::placeholder {
   color: #838383;
 }
